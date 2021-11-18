@@ -1,2 +1,2 @@
 # consulting
-Repo for statistical consulting
+Repository for statistical consulting data
